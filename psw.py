@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
-from pickle import TRUE
 import random
 import re
-from typing import Optional
 import typer
 
 
